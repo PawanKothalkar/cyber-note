@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c106a9b5.css",
+    "main.js": "/static/js/main.a55440ab.js",
+    "static/media/CyberNoteBackground2.jpg": "/static/media/CyberNoteBackground2.89036a8cc83b44cf2986.jpg",
+    "index.html": "/index.html",
+    "main.c106a9b5.css.map": "/static/css/main.c106a9b5.css.map",
+    "main.a55440ab.js.map": "/static/js/main.a55440ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c106a9b5.css",
+    "static/js/main.a55440ab.js"
+  ]
+}
