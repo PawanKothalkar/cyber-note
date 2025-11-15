@@ -24,14 +24,9 @@
   "bugs": {
     "url": "https://github.com/PawanKothalkar/cyber-note/issues"
   },
-<<<<<<< HEAD
   "homepage": "https://github.com/PawanKothalkar/cyber-note",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
 
 }
-=======
-  "homepage": "https://github.com/PawanKothalkar/cyber-note"
-}
->>>>>>> 965cfe809405395fa4363f333f00b674851a881d
