@@ -1,7 +1,5 @@
 {
-  "name": "frontend",
-  "homepage": "https://pawankothalkar.github.io/cyber-note",
-  
+  "name": "frontend",  
   "version": "0.1.0",
   "homepage": "https://pawankothalkar.github.io/cyber-note",
   "private": true,
