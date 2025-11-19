@@ -22,3 +22,18 @@ const PORT = process.env.PORT || 4000;
 app.listen(PORT, () => {
   console.log(`Server is running on PORT : ${PORT}`);
 });
+
+
+// Add this route to handle the root URL
+app.get('/', (req, res) => {
+  res.json({ 
+    message: 'Cyber-Note Backend is running!',
+    status: 'OK',
+    timestamp: new Date().toISOString()
+  });
+});
+
+// Your existing routes (keep these)
+app.use('/api/auth', authRoutes);
+app.use('/api/notes', notesRoutes);
+// ... other routes
